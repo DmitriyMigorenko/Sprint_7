@@ -1,11 +1,11 @@
-package ru.praktikum_services.requests;
+package ru.praktikumservices.requests;
 
 import io.qameta.allure.Step;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.Before;
-import ru.praktikum_services.qa_scooter.order.Order;
+import ru.praktikumservices.qascooter.order.Order;
 
 import static io.restassured.RestAssured.given;
 

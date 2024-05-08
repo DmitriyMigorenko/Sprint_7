@@ -1,10 +1,10 @@
-package ru.praktikum_services.qa_scooter;
+package ru.praktikumservices.qascooter;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.RestAssured;
 import org.junit.Before;
 import org.junit.Test;
-import ru.praktikum_services.requests.OrderRequest;
+import ru.praktikumservices.requests.OrderRequest;
 
 import java.net.HttpURLConnection;
 
